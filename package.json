@@ -4,7 +4,7 @@
   "description": "React Complete Full Stack E-Commerce",
   "main": "index.js",
   "type": "module",
-  "scripts": {
+  "scripts": { 
     "start": "node backend/server",
     "server": "nodemon backend/server",
     "client": "npm run start --prefix frontend",
